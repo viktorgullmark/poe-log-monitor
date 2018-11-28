@@ -62,9 +62,10 @@ PathOfExileLog.prototype.registerMatch = function (text) {
                     self[event.function](match); // Execute specified function
                 }
             }
-            return;
+            return true;
         }
     }
+    return false;
 }
 
 // Reads the file and emits events for each included event
@@ -72,15 +73,25 @@ async function readLogStream(file, instance) {
     return new Promise(resolve => {
         var stream = fs.createReadStream(file, { encoding: 'utf8', highWaterMark: instance.chunkSize });
         var hasStarted = false;
+        var lastLine = null;
+
         // Split data into chunks so we dont stall the client
         stream.on('data', chunk => {
+            if (lastLine) {
+                chunk = lastLine + chunk;
+            }
             if (!hasStarted) instance.emit("parsingStarted");
             hasStarted = true;
             var lines = chunk.toString().split("\n");
             // Pause stream until this chunk is completed to avoid spamming the thread
             stream.pause();
             async.each(lines, function (line, callback) {
-                instance.registerMatch(line);
+                var result = instance.registerMatch(line);
+                if (!result && lines.indexOf(line) == (lines.length - 1)) {
+                    lastLine = line;
+                } else {
+                    lastLine = null;
+                }
                 callback();
             }, function (err) {
                 setTimeout(() => {
@@ -139,11 +150,11 @@ PathOfExileLog.prototype.evalMatch = function (match, properties, event) {
                 if (!properties[key].hasOwnProperty(nestedKey)) { continue; }
 
                 var nestedMatchIndex = nestedObject[nestedKey];
-                data[key][nestedKey] = match[nestedMatchIndex+timestampIndex];
+                data[key][nestedKey] = match[nestedMatchIndex + timestampIndex];
             }
         } else {
             var matchIndex = properties[key];
-            data[key] = match[matchIndex+timestampIndex];
+            data[key] = match[matchIndex + timestampIndex];
         }
     }
 
