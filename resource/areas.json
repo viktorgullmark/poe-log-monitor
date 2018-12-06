@@ -2404,8 +2404,8 @@
   "map": {
     "Beach": [
       {
-        "level": 68,
-        "tier": 1,
+        "level": 71,
+        "tier": 4,
         "bosses": [
           {
             "name": "Glace"
@@ -2415,8 +2415,8 @@
     ],
     "Dungeon": [
       {
-        "level": 68,
-        "tier": 1,
+        "level": 69,
+        "tier": 2,
         "bosses": [
           {
             "name": "Penitentiary Incarcerator"
@@ -2426,8 +2426,8 @@
     ],
     "Graveyard": [
       {
-        "level": 68,
-        "tier": 1,
+        "level": 70,
+        "tier": 3,
         "bosses": [
           {
             "name": "Steelpoint the Avenger"
@@ -2443,8 +2443,8 @@
     ],
     "Lookout": [
       {
-        "level": 68,
-        "tier": 1,
+        "level": 71,
+        "tier": 4,
         "bosses": [
           {
             "name": "The Grey Plague"
@@ -2454,8 +2454,8 @@
     ],
     "Alleyways": [
       {
-        "level": 69,
-        "tier": 2,
+        "level": 72,
+        "tier": 5,
         "bosses": [
           {
             "name": "Calderus"
@@ -2476,8 +2476,8 @@
     ],
     "Desert": [
       {
-        "level": 69,
-        "tier": 2,
+        "level": 70,
+        "tier": 3,
         "bosses": [
           {
             "name": "Preethi, Eye-Pecker"
@@ -2487,8 +2487,8 @@
     ],
     "Flooded Mine": [
       {
-        "level": 69,
-        "tier": 2,
+        "level": 68,
+        "tier": 1,
         "bosses": [
           {
             "name": "The Eroding One"
@@ -2498,8 +2498,8 @@
     ],
     "Marshes": [
       {
-        "level": 69,
-        "tier": 2,
+        "level": 71,
+        "tier": 4,
         "bosses": [
           {
             "name": "Tore, Towering Ancient"
@@ -2520,8 +2520,8 @@
     ],
     "Arcade": [
       {
-        "level": 70,
-        "tier": 3,
+        "level": 74,
+        "tier": 7,
         "bosses": [
           {
             "name": "Herald of Ashes"
@@ -2534,8 +2534,8 @@
     ],
     "Burial Chambers": [
       {
-        "level": 70,
-        "tier": 3,
+        "level": 78,
+        "tier": 11,
         "bosses": [
           {
             "name": "Witch of the Cauldron"
@@ -2556,8 +2556,8 @@
     ],
     "Cells": [
       {
-        "level": 70,
-        "tier": 3,
+        "level": 74,
+        "tier": 7,
         "bosses": [
           {
             "name": "Megaera"
@@ -2581,8 +2581,8 @@
     ],
     "Iceberg": [
       {
-        "level": 70,
-        "tier": 3,
+        "level": 69,
+        "tier": 2,
         "bosses": [
           {
             "name": "One random Mutewind Warband boss with a supporting Warband"
@@ -2592,8 +2592,8 @@
     ],
     "Leyline": [
       {
-        "level": 70,
-        "tier": 3,
+        "level": 77,
+        "tier": 10,
         "bosses": [
           {
             "name": "Mirage of Bones"
@@ -2614,8 +2614,8 @@
     ],
     "Port": [
       {
-        "level": 70,
-        "tier": 3,
+        "level": 72,
+        "tier": 5,
         "bosses": [
           {
             "name": "Unravelling Horror"
@@ -2623,7 +2623,7 @@
         ]
       }
     ],
-    "Springs": [
+    "Fungal Hollow": [
       {
         "level": 70,
         "tier": 3,
@@ -2695,8 +2695,8 @@
     ],
     "Canyon": [
       {
-        "level": 71,
-        "tier": 4,
+        "level": 73,
+        "tier": 6,
         "bosses": [
           {
             "name": "Gnar, Eater of Carrion"
@@ -2709,8 +2709,8 @@
     ],
     "Chateau": [
       {
-        "level": 71,
-        "tier": 4,
+        "level": 78,
+        "tier": 11,
         "bosses": [
           {
             "name": "The Reaver"
@@ -2720,8 +2720,8 @@
     ],
     "City Square": [
       {
-        "level": 71,
-        "tier": 4,
+        "level": 72,
+        "tier": 5,
         "bosses": [
           {
             "name": "Carius, the Unnatural"
@@ -2737,8 +2737,8 @@
     ],
     "Courthouse": [
       {
-        "level": 71,
-        "tier": 4,
+        "level": 81,
+        "tier": 14,
         "bosses": [
           {
             "name": "Thena Moga, The Crimson Storm"
@@ -2752,7 +2752,7 @@
         ]
       }
     ],
-    "Gorge": [
+    "Glacier": [
       {
         "level": 71,
         "tier": 4,
@@ -2765,8 +2765,8 @@
     ],
     "Grotto": [
       {
-        "level": 71,
-        "tier": 4,
+        "level": 70,
+        "tier": 3,
         "bosses": [
           {
             "name": "Void Anomaly"
@@ -2787,8 +2787,8 @@
     ],
     "Relic Chambers": [
       {
-        "level": 71,
-        "tier": 4,
+        "level": 76,
+        "tier": 9,
         "bosses": [
           {
             "name": "Litanius, the Black Prayer"
@@ -2820,8 +2820,8 @@
     ],
     "Volcano": [
       {
-        "level": 71,
-        "tier": 4,
+        "level": 73,
+        "tier": 6,
         "bosses": [
           {
             "name": "Forest of Flames"
@@ -2831,8 +2831,8 @@
     ],
     "Ancient City": [
       {
-        "level": 72,
-        "tier": 5,
+        "level": 76,
+        "tier": 9,
         "bosses": [
           {
             "name": "Lady Stormflay"
@@ -2842,8 +2842,8 @@
     ],
     "Barrows": [
       {
-        "level": 72,
-        "tier": 5,
+        "level": 71,
+        "tier": 4,
         "bosses": [
           {
             "name": "Beast of the Pits"
@@ -2853,8 +2853,8 @@
     ],
     "Channel": [
       {
-        "level": 72,
-        "tier": 5,
+        "level": 68,
+        "tier": 1,
         "bosses": [
           {
             "name": "The Winged Death"
@@ -2864,8 +2864,8 @@
     ],
     "Conservatory": [
       {
-        "level": 72,
-        "tier": 5,
+        "level": 74,
+        "tier": 7,
         "bosses": [
           {
             "name": "The Forgotten Soldier"
@@ -2875,8 +2875,8 @@
     ],
     "Haunted Mansion": [
       {
-        "level": 72,
-        "tier": 5,
+        "level": 73,
+        "tier": 6,
         "bosses": [
           {
             "name": "Barthol, the Pure"
@@ -2889,8 +2889,8 @@
     ],
     "Ivory Temple": [
       {
-        "level": 72,
-        "tier": 5,
+        "level": 79,
+        "tier": 12,
         "bosses": [
           {
             "name": "One random Perandus Manor boss"
@@ -2911,8 +2911,8 @@
     ],
     "Spider Lair": [
       {
-        "level": 72,
-        "tier": 5,
+        "level": 71,
+        "tier": 4,
         "bosses": [
           {
             "name": "Thraxia"
@@ -2922,8 +2922,8 @@
     ],
     "Sulphur Vents": [
       {
-        "level": 72,
-        "tier": 5,
+        "level": 73,
+        "tier": 6,
         "bosses": [
           {
             "name": "The Gorgon"
@@ -2933,8 +2933,8 @@
     ],
     "Toxic Sewer": [
       {
-        "level": 72,
-        "tier": 5,
+        "level": 74,
+        "tier": 7,
         "bosses": [
           {
             "name": "Arachnoxia"
@@ -2962,8 +2962,8 @@
     ],
     "Atoll": [
       {
-        "level": 73,
-        "tier": 6,
+        "level": 68,
+        "tier": 1,
         "bosses": [
           {
             "name": "Puruna, the Challenger"
@@ -3031,8 +3031,8 @@
     ],
     "Jungle Valley": [
       {
-        "level": 73,
-        "tier": 6,
+        "level": 72,
+        "tier": 5,
         "bosses": [
           {
             "name": "Queen of the Great Tangle"
@@ -3042,8 +3042,8 @@
     ],
     "Mausoleum": [
       {
-        "level": 73,
-        "tier": 6,
+        "level": 72,
+        "tier": 5,
         "bosses": [
           {
             "name": "Tolman, the Exhumer"
@@ -3064,8 +3064,8 @@
     ],
     "Thicket": [
       {
-        "level": 73,
-        "tier": 6,
+        "level": 69,
+        "tier": 2,
         "bosses": [
           {
             "name": "The Primal One"
@@ -3075,8 +3075,8 @@
     ],
     "Underground Sea": [
       {
-        "level": 73,
-        "tier": 6,
+        "level": 72,
+        "tier": 5,
         "bosses": [
           {
             "name": "Merveil, the Reflection"
@@ -3097,8 +3097,8 @@
     ],
     "Arachnid Nest": [
       {
-        "level": 74,
-        "tier": 7,
+        "level": 75,
+        "tier": 8,
         "bosses": [
           {
             "name": "Spinner of False Hope"
@@ -3119,8 +3119,8 @@
     ],
     "Bone Crypt": [
       {
-        "level": 74,
-        "tier": 7,
+        "level": 70,
+        "tier": 3,
         "bosses": [
           {
             "name": "Xixic, High Necromancer"
@@ -3141,8 +3141,8 @@
     ],
     "Coral Ruins": [
       {
-        "level": 74,
-        "tier": 7,
+        "level": 77,
+        "tier": 10,
         "bosses": [
           {
             "name": "Captain Tanner Lightfoot"
@@ -3174,8 +3174,8 @@
     ],
     "Gardens": [
       {
-        "level": 74,
-        "tier": 7,
+        "level": 72,
+        "tier": 5,
         "bosses": [
           {
             "name": "Sallazzang"
@@ -3196,8 +3196,8 @@
     ],
     "Ramparts": [
       {
-        "level": 74,
-        "tier": 7,
+        "level": 68,
+        "tier": 1,
         "bosses": [
           {
             "name": "Legius Garhall"
@@ -3207,8 +3207,8 @@
     ],
     "Residence": [
       {
-        "level": 74,
-        "tier": 7,
+        "level": 72,
+        "tier": 5,
         "bosses": [
           {
             "name": "Excellis Aurafix"
@@ -3218,8 +3218,8 @@
     ],
     "Tribunal": [
       {
-        "level": 74,
-        "tier": 7,
+        "level": 71,
+        "tier": 4,
         "bosses": [
           {
             "name": "Shavronne the Sickening"
@@ -3257,8 +3257,8 @@
     ],
     "Armoury": [
       {
-        "level": 75,
-        "tier": 8,
+        "level": 69,
+        "tier": 2,
         "bosses": [
           {
             "name": "Warmonger"
@@ -3268,8 +3268,8 @@
     ],
     "Courtyard": [
       {
-        "level": 75,
-        "tier": 8,
+        "level": 71,
+        "tier": 4,
         "bosses": [
           {
             "name": "Oriath's Vengeance"
@@ -3296,8 +3296,8 @@
     ],
     "Geode": [
       {
-        "level": 75,
-        "tier": 8,
+        "level": 74,
+        "tier": 7,
         "bosses": [
           {
             "name": "Avatar of Undoing"
@@ -3407,8 +3407,8 @@
     ],
     "Tropical Island": [
       {
-        "level": 75,
-        "tier": 8,
+        "level": 76,
+        "tier": 9,
         "bosses": [
           {
             "name": "Blood Progenitor"
@@ -3455,8 +3455,8 @@
     ],
     "Vaal Pyramid": [
       {
-        "level": 75,
-        "tier": 8,
+        "level": 72,
+        "tier": 5,
         "bosses": [
           {
             "name": "The Fallen Queen"
@@ -3500,8 +3500,8 @@
     ],
     "Estuary": [
       {
-        "level": 76,
-        "tier": 9,
+        "level": 77,
+        "tier": 10,
         "bosses": [
           {
             "name": "Sumter the Twisted"
@@ -3558,8 +3558,8 @@
     ],
     "Plateau": [
       {
-        "level": 76,
-        "tier": 9,
+        "level": 77,
+        "tier": 10,
         "bosses": [
           {
             "name": "Puruna, the Challenger"
@@ -3583,8 +3583,8 @@
     ],
     "Sepulchre": [
       {
-        "level": 76,
-        "tier": 9,
+        "level": 75,
+        "tier": 8,
         "bosses": [
           {
             "name": "Doedre the Defiler"
@@ -3616,8 +3616,8 @@
     ],
     "Tower": [
       {
-        "level": 76,
-        "tier": 9,
+        "level": 82,
+        "tier": 15,
         "bosses": [
           {
             "name": "Liantra Bazur"
@@ -3649,8 +3649,8 @@
     ],
     "Arachnid Tomb": [
       {
-        "level": 77,
-        "tier": 10,
+        "level": 78,
+        "tier": 11,
         "bosses": [
           {
             "name": "Hybrid Widow"
@@ -3671,8 +3671,8 @@
     ],
     "Bog": [
       {
-        "level": 77,
-        "tier": 10,
+        "level": 78,
+        "tier": 11,
         "bosses": [
           {
             "name": "Skullbeak"
@@ -3682,8 +3682,8 @@
     ],
     "Cursed Crypt": [
       {
-        "level": 77,
-        "tier": 10,
+        "level": 70,
+        "tier": 3,
         "bosses": [
           {
             "name": "Pagan Bishop of Agony"
@@ -3704,8 +3704,8 @@
     ],
     "Orchard": [
       {
-        "level": 77,
-        "tier": 10,
+        "level": 75,
+        "tier": 8,
         "bosses": [
           {
             "name": "Vision of Justice"
@@ -3726,8 +3726,8 @@
     ],
     "Precinct": [
       {
-        "level": 77,
-        "tier": 10,
+        "level": 73,
+        "tier": 6,
         "bosses": [
           {
             "name": "Three random Rogue Exiles"
@@ -3737,8 +3737,8 @@
     ],
     "Shipyard": [
       {
-        "level": 77,
-        "tier": 10,
+        "level": 70,
+        "tier": 3,
         "bosses": [
           {
             "name": "One random Brinerot Warband boss with a supporting Warband"
@@ -3748,8 +3748,8 @@
     ],
     "Siege": [
       {
-        "level": 77,
-        "tier": 10,
+        "level": 78,
+        "tier": 11,
         "bosses": [
           {
             "name": "Tahsin, Warmaker"
@@ -3770,8 +3770,8 @@
     ],
     "Wasteland": [
       {
-        "level": 77,
-        "tier": 10,
+        "level": 75,
+        "tier": 8,
         "bosses": [
           {
             "name": "The Brittle Emperor"
@@ -3781,8 +3781,8 @@
     ],
     "Colonnade": [
       {
-        "level": 78,
-        "tier": 11,
+        "level": 79,
+        "tier": 12,
         "bosses": [
           {
             "name": "Tyrant"
@@ -3792,8 +3792,8 @@
     ],
     "Coves": [
       {
-        "level": 78,
-        "tier": 11,
+        "level": 77,
+        "tier": 10,
         "bosses": [
           {
             "name": "Telvar, the Inebriated Pirate Treasure"
@@ -3836,8 +3836,8 @@
     ],
     "Pit": [
       {
-        "level": 78,
-        "tier": 11,
+        "level": 77,
+        "tier": 10,
         "bosses": [
           {
             "name": "Olof, Son of the Headsman"
@@ -3847,8 +3847,8 @@
     ],
     "Primordial Pool": [
       {
-        "level": 78,
-        "tier": 11,
+        "level": 74,
+        "tier": 7,
         "bosses": [
           {
             "name": "Nightmare's Omen"
@@ -3858,8 +3858,8 @@
     ],
     "Promenade": [
       {
-        "level": 78,
-        "tier": 11,
+        "level": 75,
+        "tier": 8,
         "bosses": [
           {
             "name": "Blackguard Avenger Blackguard Tempest"
@@ -3880,8 +3880,8 @@
     ],
     "Spider Forest": [
       {
-        "level": 78,
-        "tier": 11,
+        "level": 77,
+        "tier": 10,
         "bosses": [
           {
             "name": "Enticer of Rot"
@@ -3891,8 +3891,8 @@
     ],
     "Waterways": [
       {
-        "level": 78,
-        "tier": 11,
+        "level": 76,
+        "tier": 9,
         "bosses": [
           {
             "name": "Fragment of Winter"
@@ -3913,8 +3913,8 @@
     ],
     "Crystal Ore": [
       {
-        "level": 79,
-        "tier": 12,
+        "level": 78,
+        "tier": 11,
         "bosses": [
           {
             "name": "Champion of the Hollows Lord of the Hollows Messenger of the Hollows"
@@ -3979,8 +3979,8 @@
     ],
     "Racecourse": [
       {
-        "level": 79,
-        "tier": 12,
+        "level": 80,
+        "tier": 13,
         "bosses": [
           {
             "name": "Shredder of Gladiators Crusher of Gladiators Bringer of Blood"
@@ -3990,8 +3990,8 @@
     ],
     "Summit": [
       {
-        "level": 79,
-        "tier": 12,
+        "level": 82,
+        "tier": 15,
         "bosses": [
           {
             "name": "Mephod, the Earth Scorcher"
@@ -3999,10 +3999,10 @@
         ]
       }
     ],
-    "Torture Chamber": [
+    "Primordial Blocks": [
       {
-        "level": 79,
-        "tier": 12,
+        "level": 82,
+        "tier": 15,
         "bosses": [
           {
             "name": "Shock and Horror"
@@ -4030,8 +4030,8 @@
     ],
     "Arsenal": [
       {
-        "level": 80,
-        "tier": 13,
+        "level": 79,
+        "tier": 12,
         "bosses": [
           {
             "name": "The Steel Soul"
@@ -4074,8 +4074,8 @@
     ],
     "Desert Spring": [
       {
-        "level": 80,
-        "tier": 13,
+        "level": 82,
+        "tier": 15,
         "bosses": [
           {
             "name": "Terror of the Infinite Drifts"
@@ -4085,8 +4085,8 @@
     ],
     "Ghetto": [
       {
-        "level": 80,
-        "tier": 13,
+        "level": 74,
+        "tier": 7,
         "bosses": [
           {
             "name": "Hephaeus, The Hammer"
@@ -4096,8 +4096,8 @@
     ],
     "Malformation": [
       {
-        "level": 80,
-        "tier": 13,
+        "level": 79,
+        "tier": 12,
         "bosses": [
           {
             "name": "Nightmare Manifest"
@@ -4107,8 +4107,8 @@
     ],
     "Park": [
       {
-        "level": 80,
-        "tier": 13,
+        "level": 78,
+        "tier": 11,
         "bosses": [
           {
             "name": "Suncaller Asha"
@@ -4129,8 +4129,8 @@
     ],
     "Terrace": [
       {
-        "level": 80,
-        "tier": 13,
+        "level": 81,
+        "tier": 14,
         "bosses": [
           {
             "name": "Varhesh, Shimmering Aberration"
@@ -4164,10 +4164,10 @@
         ]
       }
     ],
-    "Acid Lakes": [
+    "Acid Caverns": [
       {
-        "level": 81,
-        "tier": 14,
+        "level": 80,
+        "tier": 13,
         "bosses": [
           {
             "name": "Two random Renegades Warband bosses with a supporting Warband"
@@ -4177,8 +4177,8 @@
     ],
     "Colosseum": [
       {
-        "level": 81,
-        "tier": 14,
+        "level": 80,
+        "tier": 13,
         "bosses": [
           {
             "name": "Ambrius, Legion Slayer"
@@ -4188,8 +4188,8 @@
     ],
     "Crimson Temple": [
       {
-        "level": 81,
-        "tier": 14,
+        "level": 80,
+        "tier": 13,
         "bosses": [
           {
             "name": "The Sanguine Siren"
@@ -4210,8 +4210,8 @@
     ],
     "Dig": [
       {
-        "level": 81,
-        "tier": 14,
+        "level": 80,
+        "tier": 13,
         "bosses": [
           {
             "name": "Stalker of the Endless Dunes"
@@ -4232,8 +4232,8 @@
     ],
     "Plaza": [
       {
-        "level": 81,
-        "tier": 14,
+        "level": 77,
+        "tier": 10,
         "bosses": [
           {
             "name": "The Goddess"
@@ -4243,8 +4243,8 @@
     ],
     "Basilica": [
       {
-        "level": 82,
-        "tier": 15,
+        "level": 81,
+        "tier": 14,
         "bosses": [
           {
             "name": "Konley, the Unrepentant"
@@ -4257,8 +4257,8 @@
     ],
     "Carcass": [
       {
-        "level": 82,
-        "tier": 15,
+        "level": 81,
+        "tier": 14,
         "bosses": [
           {
             "name": "Amalgam of Nightmares"
@@ -4279,8 +4279,8 @@
     ],
     "Reef": [
       {
-        "level": 82,
-        "tier": 15,
+        "level": 80,
+        "tier": 13,
         "bosses": [
           {
             "name": "Nassar, Lion of the Seas"
@@ -4290,8 +4290,8 @@
     ],
     "Sunken City": [
       {
-        "level": 82,
-        "tier": 15,
+        "level": 81,
+        "tier": 14,
         "bosses": [
           {
             "name": "Armala, the Widow"
@@ -4374,7 +4374,7 @@
     "The Shaper's Realm": [
       {
         "level": 84,
-        "tier": null,
+        "tier": 17,
         "bosses": [
           {
             "name": "The Shaper"
