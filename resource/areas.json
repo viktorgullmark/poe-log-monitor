@@ -2634,6 +2634,17 @@
         ]
       }
     ],
+    "Springs": [
+      {
+        "level": 70,
+        "tier": 3,
+        "bosses": [
+          {
+            "name": "Aulen Greychain"
+          }
+        ]
+      }
+    ],
     "Esh's Domain": [
       {
         "level": 70,
@@ -2753,6 +2764,17 @@
       }
     ],
     "Glacier": [
+      {
+        "level": 71,
+        "tier": 4,
+        "bosses": [
+          {
+            "name": "Rek'tar, the Breaker"
+          }
+        ]
+      }
+    ],
+    "Gorge": [
       {
         "level": 71,
         "tier": 4,
@@ -3212,6 +3234,17 @@
         "bosses": [
           {
             "name": "Excellis Aurafix"
+          }
+        ]
+      }
+    ],
+    "Crater": [
+      {
+        "level": 71,
+        "tier": 4,
+        "bosses": [
+          {
+            "name": "Shavronne the Sickening"
           }
         ]
       }
@@ -4010,6 +4043,17 @@
         ]
       }
     ],
+    "Torture Chamber": [
+      {
+        "level": 79,
+        "tier": 12,
+        "bosses": [
+          {
+            "name": "Shock and Horror"
+          }
+        ]
+      }
+    ],
     "Oba's Cursed Trove": [
       {
         "level": 79,
@@ -4160,6 +4204,17 @@
           },
           {
             "name": "Vessel of the Vaal"
+          }
+        ]
+      }
+    ],
+    "Acid Lakes": [
+      {
+        "level": 81,
+        "tier": 14,
+        "bosses": [
+          {
+            "name": "Two random Renegades Warband bosses with a supporting Warband"
           }
         ]
       }
