@@ -2404,8 +2404,8 @@
   "map": {
     "Beach": [
       {
-        "level": 71,
-        "tier": 4,
+        "level": 72,
+        "tier": 5,
         "bosses": [
           {
             "name": "Glace"
@@ -2443,8 +2443,8 @@
     ],
     "Lookout": [
       {
-        "level": 69,
-        "tier": 2,
+        "level": 72,
+        "tier": 5,
         "bosses": [
           {
             "name": "The Grey Plague"
@@ -2465,8 +2465,8 @@
     ],
     "Arid Lake": [
       {
-        "level": 70,
-        "tier": 3,
+        "level": 71,
+        "tier": 4,
         "bosses": [
           {
             "name": "Drought-Maddened Rhoa"
@@ -2487,8 +2487,8 @@
     ],
     "Flooded Mine": [
       {
-        "level": 70,
-        "tier": 3,
+        "level": 71,
+        "tier": 4,
         "bosses": [
           {
             "name": "The Eroding One"
@@ -2520,8 +2520,8 @@
     ],
     "Arcade": [
       {
-        "level": 72,
-        "tier": 5,
+        "level": 68,
+        "tier": 1,
         "bosses": [
           {
             "name": "Herald of Ashes"
@@ -2534,8 +2534,8 @@
     ],
     "Burial Chambers": [
       {
-        "level": 72,
-        "tier": 5,
+        "level": 71,
+        "tier": 4,
         "bosses": [
           {
             "name": "Witch of the Cauldron"
@@ -2545,8 +2545,8 @@
     ],
     "Cage": [
       {
-        "level": 71,
-        "tier": 4,
+        "level": 69,
+        "tier": 2,
         "bosses": [
           {
             "name": "Executioner Bloodwing"
@@ -2567,8 +2567,8 @@
     ],
     "Excavation": [
       {
-        "level": 71,
-        "tier": 4,
+        "level": 69,
+        "tier": 2,
         "bosses": [
           {
             "name": "Shrieker Eihal"
@@ -2592,8 +2592,8 @@
     ],
     "Leyline": [
       {
-        "level": 70,
-        "tier": 3,
+        "level": 71,
+        "tier": 4,
         "bosses": [
           {
             "name": "Mirage of Bones"
@@ -2625,8 +2625,8 @@
     ],
     "Fungal Hollow": [
       {
-        "level": 72,
-        "tier": 5,
+        "level": 70,
+        "tier": 3,
         "bosses": [
           {
             "name": "Aulen Greychain"
@@ -2731,8 +2731,8 @@
     ],
     "City Square": [
       {
-        "level": 71,
-        "tier": 4,
+        "level": 72,
+        "tier": 5,
         "bosses": [
           {
             "name": "Carius, the Unnatural"
@@ -2765,8 +2765,8 @@
     ],
     "Glacier": [
       {
-        "level": 69,
-        "tier": 2,
+        "level": 72,
+        "tier": 5,
         "bosses": [
           {
             "name": "Rek'tar, the Breaker"
@@ -2787,8 +2787,8 @@
     ],
     "Grotto": [
       {
-        "level": 71,
-        "tier": 4,
+        "level": 72,
+        "tier": 5,
         "bosses": [
           {
             "name": "Void Anomaly"
@@ -2809,8 +2809,8 @@
     ],
     "Relic Chambers": [
       {
-        "level": 70,
-        "tier": 3,
+        "level": 72,
+        "tier": 5,
         "bosses": [
           {
             "name": "Litanius, the Black Prayer"
@@ -2820,8 +2820,8 @@
     ],
     "Strand": [
       {
-        "level": 71,
-        "tier": 4,
+        "level": 70,
+        "tier": 3,
         "bosses": [
           {
             "name": "Master of the Blade Massier"
@@ -2831,8 +2831,8 @@
     ],
     "Whakawairua Tuahu": [
       {
-        "level": 71,
-        "tier": 4,
+        "level": 70,
+        "tier": 3,
         "bosses": [
           {
             "name": "Tormented Temptress"
@@ -2864,8 +2864,8 @@
     ],
     "Barrows": [
       {
-        "level": 69,
-        "tier": 2,
+        "level": 71,
+        "tier": 4,
         "bosses": [
           {
             "name": "Beast of the Pits"
@@ -2897,8 +2897,8 @@
     ],
     "Haunted Mansion": [
       {
-        "level": 68,
-        "tier": 1,
+        "level": 72,
+        "tier": 5,
         "bosses": [
           {
             "name": "Barthol, the Pure"
@@ -2911,8 +2911,8 @@
     ],
     "Ivory Temple": [
       {
-        "level": 68,
-        "tier": 1,
+        "level": 70,
+        "tier": 3,
         "bosses": [
           {
             "name": "One random Perandus Manor boss"
@@ -2933,8 +2933,8 @@
     ],
     "Spider Lair": [
       {
-        "level": 72,
-        "tier": 5,
+        "level": 70,
+        "tier": 3,
         "bosses": [
           {
             "name": "Thraxia"
@@ -2944,8 +2944,8 @@
     ],
     "Sulphur Vents": [
       {
-        "level": 68,
-        "tier": 1,
+        "level": 69,
+        "tier": 2,
         "bosses": [
           {
             "name": "The Gorgon"
@@ -3053,8 +3053,8 @@
     ],
     "Jungle Valley": [
       {
-        "level": 72,
-        "tier": 5,
+        "level": 68,
+        "tier": 1,
         "bosses": [
           {
             "name": "Queen of the Great Tangle"
@@ -3086,8 +3086,8 @@
     ],
     "Thicket": [
       {
-        "level": 69,
-        "tier": 2,
+        "level": 72,
+        "tier": 5,
         "bosses": [
           {
             "name": "The Primal One"
@@ -3108,8 +3108,8 @@
     ],
     "Wharf": [
       {
-        "level": 70,
-        "tier": 3,
+        "level": 68,
+        "tier": 1,
         "bosses": [
           {
             "name": "Stone of the Currents"
@@ -3218,8 +3218,8 @@
     ],
     "Ramparts": [
       {
-        "level": 72,
-        "tier": 5,
+        "level": 70,
+        "tier": 3,
         "bosses": [
           {
             "name": "Legius Garhall"
@@ -3440,8 +3440,8 @@
     ],
     "Tropical Island": [
       {
-        "level": 72,
-        "tier": 5,
+        "level": 70,
+        "tier": 3,
         "bosses": [
           {
             "name": "Blood Progenitor"
@@ -3682,8 +3682,8 @@
     ],
     "Arachnid Tomb": [
       {
-        "level": 70,
-        "tier": 3,
+        "level": 71,
+        "tier": 4,
         "bosses": [
           {
             "name": "Hybrid Widow"
@@ -3748,8 +3748,8 @@
     ],
     "Pier": [
       {
-        "level": 70,
-        "tier": 3,
+        "level": 68,
+        "tier": 1,
         "bosses": [
           {
             "name": "Ancient Architect"
@@ -3847,8 +3847,8 @@
     ],
     "Mesa": [
       {
-        "level": 72,
-        "tier": 5,
+        "level": 69,
+        "tier": 2,
         "bosses": [
           {
             "name": "Oak the Mighty"
@@ -4118,8 +4118,8 @@
     ],
     "Desert Spring": [
       {
-        "level": 82,
-        "tier": 15,
+        "level": 70,
+        "tier": 3,
         "bosses": [
           {
             "name": "Terror of the Infinite Drifts"
